@@ -1,1 +1,3 @@
- Hi from terminal.
+Hi from terminal
+
+clone done new change.
